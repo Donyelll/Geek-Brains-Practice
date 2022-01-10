@@ -9,6 +9,7 @@ public class MainApp {
         for (int i = 0; i < 5; i++){
             dogs[i] = new Dog();
         }
+
         dog.swim(10);
         dog.run(400);
         dog.run(-2);
