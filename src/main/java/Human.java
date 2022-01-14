@@ -52,6 +52,7 @@ public class Human implements Dummy {
             return false;
         }
     }
+
     @Override
     public String toString(){
         return this.name;

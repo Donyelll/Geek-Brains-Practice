@@ -12,6 +12,5 @@ public class MainApp {
                 if(!o.contest(d)) break;
             }
         }
-
     }
 }

@@ -25,3 +25,4 @@ public class Treadmill implements Obstacle {
         }
     }
 }
+

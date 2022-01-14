@@ -37,6 +37,7 @@ public class Robot implements  Dummy {
             return false;
         }
     }
+
     @Override
     public String toString() {
         return this.name;
